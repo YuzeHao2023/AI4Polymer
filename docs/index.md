@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.01.21
+## Updated on 2026.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Representation & Foundation Models
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
+|**2026-01-22**|**Consistency-Regularized GAN for Few-Shot SAR Target Recognition**|Yikui Zhai et.al.|[2601.15681](http://arxiv.org/abs/2601.15681)|null|
+|**2026-01-21**|**Communication-Efficient Multi-Modal Edge Inference via Uncertainty-Aware Distributed Learning**|Hang Zhao et.al.|[2601.14942](http://arxiv.org/abs/2601.14942)|null|
+|**2026-01-21**|**Using Multi-Instance Learning to Identify Unique Polyps in Colon Capsule Endoscopy Images**|Puneet Sharma et.al.|[2601.14771](http://arxiv.org/abs/2601.14771)|null|
+|**2026-01-20**|**Towards noise-robust speech inversion through multi-task learning with speech enhancement**|Saba Tabatabaee et.al.|[2601.14516](http://arxiv.org/abs/2601.14516)|null|
+|**2026-01-20**|**VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models**|Yongchao Huang et.al.|[2601.14354](http://arxiv.org/abs/2601.14354)|null|
+|**2026-01-20**|**Progressive self-supervised blind-spot denoising method for LDCT denoising**|Yichao Liu et.al.|[2601.14180](http://arxiv.org/abs/2601.14180)|null|
+|**2026-01-20**|**DistilMOS: Layer-Wise Self-Distillation For Self-Supervised Learning Model-Based MOS Prediction**|Jianing Yang et.al.|[2601.13700](http://arxiv.org/abs/2601.13700)|null|
+|**2026-01-20**|**Self-Supervised Learning of Parametric Approximation for Security-Constrained DC-OPF**|Anderson Anrrango et.al.|[2601.13486](http://arxiv.org/abs/2601.13486)|null|
+|**2026-01-19**|**CLIP-Guided Adaptable Self-Supervised Learning for Human-Centric Visual Tasks**|Mingshuang Luo et.al.|[2601.13133](http://arxiv.org/abs/2601.13133)|null|
 |**2026-01-17**|**Principal Component Analysis-Based Terahertz Self-Supervised Denoising and Deblurring Deep Neural Networks**|Pengfei Zhu et.al.|[2601.12149](http://arxiv.org/abs/2601.12149)|null|
 |**2026-01-16**|**jBOT: Semantic Jet Representation Clustering Emerges from Self-Distillation**|Ho Fung Tsoi et.al.|[2601.11719](http://arxiv.org/abs/2601.11719)|null|
 |**2026-01-16**|**Self-learned representation-guided latent diffusion model for breast cancer classification in deep ultraviolet whole surface images**|Pouya Afshin et.al.|[2601.10917](http://arxiv.org/abs/2601.10917)|null|
@@ -26,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Physical and Dielectric Properties of Polycrystalline LaV $_{0.5}$Nb$_{0.5}$O$_4$**|Ashok Kumar et.al.|[2601.16067](http://arxiv.org/abs/2601.16067)|null|
+|**2026-01-22**|**Towards a Modern Theory of Chiralization**|Nicola A. Spaldin et.al.|[2601.16042](http://arxiv.org/abs/2601.16042)|null|
+|**2026-01-22**|**Reversible viscoelasticity and irreversible elastoplasticity in the power law creep and yielding of gels and fibre network materials under stress**|Michael J. Hertaeg et.al.|[2601.15899](http://arxiv.org/abs/2601.15899)|null|
+|**2026-01-22**|**Localized emission in MoSe $_2$ monolayers on GaN nanopillars**|Abderrahim Lamrani Alaoui et.al.|[2601.15852](http://arxiv.org/abs/2601.15852)|null|
+|**2026-01-22**|**Structures of elastoinertial turbulence in pipe flow**|Manish Kumar et.al.|[2601.15637](http://arxiv.org/abs/2601.15637)|null|
+|**2026-01-21**|**Equivariant Interatomic Potentials without Tensor Products**|Thiago Reschützegger et.al.|[2601.15492](http://arxiv.org/abs/2601.15492)|null|
+|**2026-01-21**|**Bayesian identification of fibrous insulation thermal conductivity towards design of spacecraft thermal protection systems**|Alex Alberts et.al.|[2601.15427](http://arxiv.org/abs/2601.15427)|null|
+|**2026-01-21**|**Maximal spreading of impacting viscoelastic droplets**|Orr Avni et.al.|[2601.15246](http://arxiv.org/abs/2601.15246)|null|
+|**2026-01-21**|**Elementary excitations in dilute gases**|Jaeyun Moon et.al.|[2601.15233](http://arxiv.org/abs/2601.15233)|null|
+|**2026-01-21**|**Exceptionally High Carrier Mobility in Hexagonal Diamond**|Zirui He et.al.|[2601.15076](http://arxiv.org/abs/2601.15076)|null|
 |**2026-01-18**|**Learning to Dock: Geometric Deep Learning for Predicting Supramolecular Host-Guest Complexes**|Zidi Wang et.al.|[2601.12268](http://arxiv.org/abs/2601.12268)|null|
 |**2026-01-17**|**Space-resolved stress correlations and viscoelastic moduli for polydisperse systems: the faces of the stress noise**|Jörg Baschnagel et.al.|[2601.12069](http://arxiv.org/abs/2601.12069)|null|
 |**2026-01-17**|**Electric Charge Transport and Dielectric Properties of the Barium Titanate Ceramics Obtained by Spark-Plasma Sintering with Different Controlled Carbon Content**|Oleksandr S. Pylypchuk et.al.|[2601.12060](http://arxiv.org/abs/2601.12060)|null|
@@ -44,6 +64,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback**|Wenhang Ge et.al.|[2601.16214](http://arxiv.org/abs/2601.16214)|null|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210](http://arxiv.org/abs/2601.16210)|null|
+|**2026-01-22**|**Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders**|Shengbang Tong et.al.|[2601.16208](http://arxiv.org/abs/2601.16208)|null|
+|**2026-01-22**|**360Anything: Geometry-Free Lifting of Images and Videos to 360°**|Ziyi Wu et.al.|[2601.16192](http://arxiv.org/abs/2601.16192)|null|
+|**2026-01-22**|**ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion**|Remy Sabathier et.al.|[2601.16148](http://arxiv.org/abs/2601.16148)|null|
+|**2026-01-22**|**Interface Spin-orbit Coupling Induced Room-temperature Ferromagnetic Insulator**|Yuhao Hong et.al.|[2601.16069](http://arxiv.org/abs/2601.16069)|null|
+|**2026-01-22**|**ProGiDiff: Prompt-Guided Diffusion-Based Medical Image Segmentation**|Yuan Lin et.al.|[2601.16060](http://arxiv.org/abs/2601.16060)|null|
+|**2026-01-22**|**Enhanced Representation-Based Sampling for the Efficient Generation of Datasets for Machine-Learned Interatomic Potentials**|Moritz René Schäfer et.al.|[2601.16047](http://arxiv.org/abs/2601.16047)|null|
+|**2026-01-22**|**HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models**|Xin Xie et.al.|[2601.15968](http://arxiv.org/abs/2601.15968)|null|
+|**2026-01-22**|**Iterative Amortized Hierarchical VAE**|Simon W. Penninga et.al.|[2601.15894](http://arxiv.org/abs/2601.15894)|null|
 |**2026-01-18**|**Multi-modal data-driven microstructure characterization**|Qi Zhang et.al.|[2601.12584](http://arxiv.org/abs/2601.12584)|null|
 |**2026-01-18**|**Fine-Tuning Cycle-GAN for Domain Adaptation of MRI Images**|Mohd Usama et.al.|[2601.12512](http://arxiv.org/abs/2601.12512)|null|
 |**2026-01-18**|**Class-Partitioned VQ-VAE and Latent Flow Matching for Point Cloud Scene Generation**|Dasith de Silva Edirimuni et.al.|[2601.12391](http://arxiv.org/abs/2601.12391)|null|
@@ -69,6 +99,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Engineering polarization: How contradictory stimulation systematically undermines political moderation**|Renato Vieira dos Santos et.al.|[2601.16181](http://arxiv.org/abs/2601.16181)|null|
+|**2026-01-22**|**Stabilizer Thermal Eigenstates at Infinite Temperature**|Akihiro Hokkyo et.al.|[2601.16177](http://arxiv.org/abs/2601.16177)|null|
+|**2026-01-22**|**A saturation bound for cumulative responses under local linear relaxation**|Sanjeev Kumar Verma et.al.|[2601.16157](http://arxiv.org/abs/2601.16157)|null|
+|**2026-01-22**|**In vitro binding energies capture Klf4 occupancy across the human genome**|Anne Schwager et.al.|[2601.16151](http://arxiv.org/abs/2601.16151)|null|
+|**2026-01-22**|**Fair sampling with temperature-targeted QAOA based on quantum-classical correspondence theory**|Tetsuro Abe et.al.|[2601.16144](http://arxiv.org/abs/2601.16144)|null|
+|**2026-01-22**|**Quantum Dimension Reduction of Hidden Markov Models**|Rishi Sundar et.al.|[2601.16126](http://arxiv.org/abs/2601.16126)|null|
+|**2026-01-22**|**Langevin equations with non-Gaussian thermal noise: Valid but superfluous**|Alex V. Plyukhin et.al.|[2601.16114](http://arxiv.org/abs/2601.16114)|null|
+|**2026-01-22**|**Transition in Splitting Probabilities of Quantum Walks**|Prashant Singh et.al.|[2601.16111](http://arxiv.org/abs/2601.16111)|null|
+|**2026-01-22**|**Random Walks Across Dimensions: Exploring Simplicial Complexes**|Diego Febbe et.al.|[2601.16086](http://arxiv.org/abs/2601.16086)|null|
+|**2026-01-22**|**Improve the autonomy of the SE2(3) group based Extended Kalman Filter for Integrated Navigation: Application**|Jiarui Cui et.al.|[2601.16078](http://arxiv.org/abs/2601.16078)|null|
 |**2026-01-18**|**Stochastic Quantum Information Geometry and Speed Limits at the Trajectory Level**|Pedro B. Melo et.al.|[2601.12475](http://arxiv.org/abs/2601.12475)|null|
 |**2026-01-18**|**Thermo-field entanglement description of Markovian two-state relaxation**|Koichi Nakagawa et.al.|[2601.12435](http://arxiv.org/abs/2601.12435)|null|
 |**2026-01-18**|**Universal and non-universal contributions of entanglement under different bipartitions**|Zhe Wang et.al.|[2601.12365](http://arxiv.org/abs/2601.12365)|null|
@@ -94,6 +134,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Hybrid Channel Estimation with Quantized Phase Feedback for Over-the-Air Computation**|Martin Dahl et.al.|[2601.16054](http://arxiv.org/abs/2601.16054)|null|
+|**2026-01-21**|**A New Measure of Coarseness for Solutions to Cahn--Hilliard Equations**|Peter Howard et.al.|[2601.15134](http://arxiv.org/abs/2601.15134)|null|
+|**2026-01-21**|**Self-organized flows break morphological symmetry in active/passive systems**|Rainer Backofen et.al.|[2601.15001](http://arxiv.org/abs/2601.15001)|null|
+|**2026-01-19**|**Quantum droplets in a resonant Bose-Fermi mixture**|Sam Foster et.al.|[2601.12777](http://arxiv.org/abs/2601.12777)|null|
 |**2026-01-18**|**Multi-modal data-driven microstructure characterization**|Qi Zhang et.al.|[2601.12584](http://arxiv.org/abs/2601.12584)|null|
 |**2026-01-16**|**Halide diffusion in mixed-halide perovskites and heterojunctions**|Viren Tyagi et.al.|[2601.11503](http://arxiv.org/abs/2601.11503)|null|
 |**2026-01-16**|**Principles of Client Enrichment in Multicomponent Biomolecular Condensates**|Aishani Ghosal et.al.|[2601.11450](http://arxiv.org/abs/2601.11450)|null|
@@ -110,6 +154,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-19**|**BladeSDF : Unconditional and Conditional Generative Modeling of Representative Blade Geometries Using Signed Distance Functions**|Ashish S. Nair et.al.|[2601.13445](http://arxiv.org/abs/2601.13445)|null|
+|**2026-01-19**|**Insights into $CO_{2}$ activation on defective ZnS surfaces**|P. R. A de Oliveira et.al.|[2601.13434](http://arxiv.org/abs/2601.13434)|null|
+|**2026-01-19**|**Synthesis of Fault-tolerant State Preparation Circuits using Steane-type Error Detection**|Erik Weilandt et.al.|[2601.13313](http://arxiv.org/abs/2601.13313)|null|
+|**2026-01-18**|**onepot CORE -- an enumerated chemical space to streamline drug discovery, enabled by automated small molecule synthesis and AI**|Andrei S. Tyrin et.al.|[2601.12603](http://arxiv.org/abs/2601.12603)|null|
 |**2026-01-18**|**AlphaSyndrome: Tackling the Syndrome Measurement Circuit Scheduling Problem for QEC Codes**|Yuhao Liu et.al.|[2601.12509](http://arxiv.org/abs/2601.12509)|null|
 |**2026-01-13**|**High-Fidelity Modeling of Stochastic Chemical Dynamics on Complex Manifolds: A Multi-Scale SIREN-PINN Framework for the Curvature-Perturbed Ginzburg-Landau Equation**|Julian Evan Chrisnanto et.al.|[2601.08104](http://arxiv.org/abs/2601.08104)|null|
 |**2026-01-07**|**O-Researcher: An Open Ended Deep Research Model via Multi-Agent Distillation and Agentic RL**|Yi Yao et.al.|[2601.03743](http://arxiv.org/abs/2601.03743)|null|
@@ -126,6 +174,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Effects of pulsed and continuous light and heavy ion irradiation on the morphology and electrical properties of Ag+C60 and Au+C60 composite thin films**|Giovanni Ceccio et.al.|[2601.15835](http://arxiv.org/abs/2601.15835)|null|
+|**2026-01-21**|**Precisely positioned generation of CsPbBr3 nano-light sources in a Cs4PbBr6 film by electron beam irradiation**|Tomoyasu Fujimaru et.al.|[2601.14898](http://arxiv.org/abs/2601.14898)|null|
+|**2026-01-22**|**Nanodroplet-Confined Electroplating Enables Submicron Printing of Metals and Oxide Ceramics**|Mirco Nydegger et.al.|[2601.14576](http://arxiv.org/abs/2601.14576)|null|
+|**2026-01-19**|**A unified multiscale 3D printer combining single-photon Tomographic Volumetric Additive Manufacturing and Two-Photon Polymerization**|Buse Unlu et.al.|[2601.13457](http://arxiv.org/abs/2601.13457)|null|
+|**2026-01-19**|**3D atomistic imaging of polymer nanocomposites with Atom Probe Tomography: experimental methodology, preliminary results and future outlook**|James O. Douglas et.al.|[2601.12649](http://arxiv.org/abs/2601.12649)|null|
 |**2026-01-16**|**Computational Design of Ductile Additively Manufactured Tungsten-Based Refractory Alloys**|Kareem Abdelmaqsoud et.al.|[2601.11295](http://arxiv.org/abs/2601.11295)|null|
 |**2026-01-15**|**Combining laser ablation and Sol-Gel techniques for the synthesis of nanostructured organic-inorganic matrices**|E. Haro-Poniatowski et.al.|[2601.10889](http://arxiv.org/abs/2601.10889)|null|
 |**2026-01-15**|**Advanced Manufacturing with Renewable and Bio-based Materials: AI/ML workflows and Process Optimization**|Rigoberto Advincula et.al.|[2601.10382](http://arxiv.org/abs/2601.10382)|null|
@@ -141,6 +194,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Swelling-Induced Stress-Assisted Transfer of Nanodiamond Arrays with a PVA Carrier Tape for Conformal Bio-Integrated Sensing and Labelling**|Luyao Zhang et.al.|[2601.15587](http://arxiv.org/abs/2601.15587)|null|
+|**2026-01-21**|**Designing DNA nanostar hydrogels with programmable degradation and antibody release**|Giorgia Palombo et.al.|[2601.14934](http://arxiv.org/abs/2601.14934)|null|
+|**2026-01-20**|**Unraveling the Mechanisms of Ultrasound-Induced Mechanical Degradation of Microgels: Effects of Mechanoresponsive Crosslinks, Softness, and Core-Shell Architecture**|Alexander V. Petrunin et.al.|[2601.13862](http://arxiv.org/abs/2601.13862)|null|
 |**2026-01-16**|**Inertial Self-Caging: Dynamics of Macroscopic Swimmers at Moderate Reynolds Number Sustaining Chemical Wake Resonance**|Alessandro Foradori et.al.|[2601.11264](http://arxiv.org/abs/2601.11264)|null|
 |**2026-01-09**|**Accounting for environmental awareness in wheat production through Life Cycle Assessment**|Gianfranco Giulioni et.al.|[2601.05912](http://arxiv.org/abs/2601.05912)|null|
 |**2026-01-09**|**Modeling and Simulation of Device Performance in Organic Photovoltaics**|Pelin Çiloğlu et.al.|[2601.05596](http://arxiv.org/abs/2601.05596)|null|
@@ -156,6 +212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback**|Wenhang Ge et.al.|[2601.16214](http://arxiv.org/abs/2601.16214)|null|
+|**2026-01-22**|**Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition**|Geo Ahn et.al.|[2601.16211](http://arxiv.org/abs/2601.16211)|null|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210](http://arxiv.org/abs/2601.16210)|null|
+|**2026-01-22**|**IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance**|Jongwoo Park et.al.|[2601.16207](http://arxiv.org/abs/2601.16207)|null|
+|**2026-01-22**|**A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution**|Nguyen Thi Phuong et.al.|[2601.16202](http://arxiv.org/abs/2601.16202)|null|
+|**2026-01-22**|**Constraining dark energy models using Jackknife and Bootstrap resampling**|Roshna K et.al.|[2601.16197](http://arxiv.org/abs/2601.16197)|null|
+|**2026-01-22**|**Pushing the limits of unconstrained machine-learned interatomic potentials**|Filippo Bigi et.al.|[2601.16195](http://arxiv.org/abs/2601.16195)|null|
+|**2026-01-22**|**360Anything: Geometry-Free Lifting of Images and Videos to 360°**|Ziyi Wu et.al.|[2601.16192](http://arxiv.org/abs/2601.16192)|null|
+|**2026-01-22**|**Average Unfairness in Routing Games**|Pan-Yang Su et.al.|[2601.16187](http://arxiv.org/abs/2601.16187)|null|
+|**2026-01-22**|**Inversion problem in algebras of integrable functions with summable Fourier transforms**|Przemysław Ohrysko et.al.|[2601.16186](http://arxiv.org/abs/2601.16186)|null|
 |**2026-01-18**|**Ehrhart quasi-polynomials via Barnes polynomials and discrete moments of parallelepipeds**|Sinai Robins et.al.|[2601.12596](http://arxiv.org/abs/2601.12596)|null|
 |**2026-01-18**|**SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training**|Xinhao Mei et.al.|[2601.12594](http://arxiv.org/abs/2601.12594)|null|
 |**2026-01-18**|**Do MLLMs See What We See? Analyzing Visualization Literacy Barriers in AI Systems**|Mengli et.al.|[2601.12585](http://arxiv.org/abs/2601.12585)|null|
