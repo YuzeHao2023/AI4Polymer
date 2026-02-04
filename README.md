@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Self-supervised Physics-Informed Manipulation of Deformable Linear Objects with Non-negligible Dynamics**|Youyuan Long et.al.|[2602.03623](http://arxiv.org/abs/2602.03623)|null|
+|**2026-02-03**|**A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures**|Basile Terver et.al.|[2602.03604](http://arxiv.org/abs/2602.03604)|null|
+|**2026-02-03**|**ACL: Aligned Contrastive Learning Improves BERT and Multi-exit BERT Fine-tuning**|Wei Zhu et.al.|[2602.03563](http://arxiv.org/abs/2602.03563)|null|
+|**2026-02-03**|**Multiparameter Uncertainty Mapping in Quantitative Molecular MRI using a Physics-Structured Variational Autoencoder (PS-VAE)**|Alex Finkelstein et.al.|[2602.03317](http://arxiv.org/abs/2602.03317)|null|
+|**2026-02-03**|**Topology Matters: A Cautionary Case Study of Graph SSL on Neuro-Inspired Benchmarks**|May Kristine Jonson Carlon et.al.|[2602.03217](http://arxiv.org/abs/2602.03217)|null|
+|**2026-02-03**|**A generalizable large-scale foundation model for musculoskeletal radiographs**|Shinn Kim et.al.|[2602.03076](http://arxiv.org/abs/2602.03076)|null|
+|**2026-02-03**|**HP-GAN: Harnessing pretrained networks for GAN improvement with FakeTwins and discriminator consistency**|Geonhui Son et.al.|[2602.03039](http://arxiv.org/abs/2602.03039)|null|
+|**2026-02-02**|**Self-Soupervision: Cooking Model Soups without Labels**|Anthony Fuller et.al.|[2602.02890](http://arxiv.org/abs/2602.02890)|null|
+|**2026-02-02**|**Cross-Temporal Attention Fusion (CTAF) for Multimodal Physiological Signals in Self-Supervised Learning**|Arian Khorasani et.al.|[2602.02784](http://arxiv.org/abs/2602.02784)|null|
+|**2026-02-02**|**BiTimeCrossNet: Time-Aware Self-Supervised Learning for Pediatric Sleep**|Saurav Raj Pandey et.al.|[2602.02769](http://arxiv.org/abs/2602.02769)|null|
 |**2026-02-02**|**Masked Autoencoders as Universal Speech Enhancer**|Rajalaxmi Rajagopalan et.al.|[2602.02413](http://arxiv.org/abs/2602.02413)|null|
 |**2026-02-02**|**Self-Supervised Learning from Structural Invariance**|Yipeng Zhang et.al.|[2602.02381](http://arxiv.org/abs/2602.02381)|null|
 |**2026-02-02**|**HPE: Hallucinated Positive Entanglement for Backdoor Attacks in Federated Self-Supervised Learning**|Jiayao Wang et.al.|[2602.02147](http://arxiv.org/abs/2602.02147)|null|
@@ -82,6 +92,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Ab initio Phase Diagram of Ta2O5**|Yan Gong et.al.|[2602.03649](http://arxiv.org/abs/2602.03649)|null|
+|**2026-02-03**|**Thermal conductivity in noncollinear magnets**|Margherita Parodi et.al.|[2602.03326](http://arxiv.org/abs/2602.03326)|null|
+|**2026-02-03**|**Ultralow radiative heat flux by Anderson localization in quasiperiodic plasmonic chains**|Yizhi Hu et.al.|[2602.03008](http://arxiv.org/abs/2602.03008)|null|
+|**2026-02-02**|**Flow-induced bending response rheometer to measure viscoelastic bending of soft microrods**|Barrett T Smith et.al.|[2602.02801](http://arxiv.org/abs/2602.02801)|null|
 |**2026-02-02**|**Spectral Analysis of Brownian Motion with its Rheological Analogues**|Nicos Makris et.al.|[2602.02297](http://arxiv.org/abs/2602.02297)|null|
 |**2026-02-02**|**Thermophysical properties of spark plasma sintered UCo: a comparison with machine learning predictions**|Yifan Sun et.al.|[2602.01896](http://arxiv.org/abs/2602.01896)|null|
 |**2026-02-02**|**On Large Deformations of Oldroyd-B Drops in a Steady Electric Field**|Sarika Shivaji Bangar et.al.|[2602.01891](http://arxiv.org/abs/2602.01891)|null|
@@ -135,6 +149,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Fast Sampling for Flows and Diffusions with Lazy and Point Mass Stochastic Interpolants**|Gabriel Damsholt et.al.|[2602.03789](http://arxiv.org/abs/2602.03789)|null|
+|**2026-02-03**|**DiffLOB: Diffusion Models for Counterfactual Generation in Limit Order Books**|Zhuohan Wang et.al.|[2602.03776](http://arxiv.org/abs/2602.03776)|null|
+|**2026-02-03**|**Reasoning with Latent Tokens in Diffusion Language Models**|Andre He et.al.|[2602.03769](http://arxiv.org/abs/2602.03769)|null|
+|**2026-02-03**|**Test-Time Conditioning with Representation-Aligned Visual Features**|Nicolas Sereyjol-Garros et.al.|[2602.03753](http://arxiv.org/abs/2602.03753)|null|
+|**2026-02-03**|**CTTVAE: Latent Space Structuring for Conditional Tabular Data Generation on Imbalanced Datasets**|Milosh Devic et.al.|[2602.03641](http://arxiv.org/abs/2602.03641)|null|
+|**2026-02-03**|**Explanations Leak: Membership Inference with Differential Privacy and Active Learning Defense**|Fatima Ezzeddine et.al.|[2602.03611](http://arxiv.org/abs/2602.03611)|null|
+|**2026-02-03**|**Optimization and Generation in Aerodynamics Inverse Design**|Huaguan Chen et.al.|[2602.03582](http://arxiv.org/abs/2602.03582)|null|
+|**2026-02-03**|**PnP-U3D: Plug-and-Play 3D Framework Bridging Autoregression and Diffusion for Unified Understanding and Generation**|Yongwei Chen et.al.|[2602.03533](http://arxiv.org/abs/2602.03533)|null|
+|**2026-02-03**|**Channel-Aware Conditional Diffusion Model for Secure MU-MISO Communications**|Tong Hui et.al.|[2602.03524](http://arxiv.org/abs/2602.03524)|null|
+|**2026-02-03**|**D3PIA: A Discrete Denoising Diffusion Model for Piano Accompaniment Generation From Lead sheet**|Eunjin Choi et.al.|[2602.03523](http://arxiv.org/abs/2602.03523)|null|
 |**2026-02-02**|**PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss**|Zehong Ma et.al.|[2602.02493](http://arxiv.org/abs/2602.02493)|null|
 |**2026-02-02**|**Maximizing Reliability with Bayesian Optimization**|Jack M. Buckingham et.al.|[2602.02432](http://arxiv.org/abs/2602.02432)|null|
 |**2026-02-02**|**Active Transfer Bagging: A New Approach for Accelerated Active Learning Acquisition of Data by Combined Transfer Learning and Bagging Based Models**|Vivienne Pelletier et.al.|[2602.02415](http://arxiv.org/abs/2602.02415)|null|
@@ -222,6 +246,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Temperature driven false vacuum decay in coherently coupled Bose superfluids**|Paniyanchatha Moolayil Sivasankar et.al.|[2602.03834](http://arxiv.org/abs/2602.03834)|null|
+|**2026-02-03**|**Vacancy defects in square-triangle tilings and their implications for quasicrystals formed by square-shoulder particles**|Alptuğ Ulugöl et.al.|[2602.03813](http://arxiv.org/abs/2602.03813)|null|
+|**2026-02-03**|**Emergent correlations in the selected link-times along optimal paths**|Iván Álvarez Domenech et.al.|[2602.03800](http://arxiv.org/abs/2602.03800)|null|
+|**2026-02-03**|**The Mpemba effect in the Descartes protocol: A time-delayed Newton's law of cooling approach**|Andrés Santos et.al.|[2602.03790](http://arxiv.org/abs/2602.03790)|null|
+|**2026-02-03**|**Ultrastable 2D glasses and packings explained by local centrosymmetry**|A. Zaccone et.al.|[2602.03770](http://arxiv.org/abs/2602.03770)|null|
+|**2026-02-03**|**Accelerating qubit reset through the Mpemba effect**|Théo Lejeune et.al.|[2602.03765](http://arxiv.org/abs/2602.03765)|null|
+|**2026-02-03**|**Stochastic Thermodynamics of Quantum-Induced Stochastic Dynamics**|Pedro V. Paraguassú et.al.|[2602.03764](http://arxiv.org/abs/2602.03764)|null|
+|**2026-02-03**|**Efficient Variance-reduced Estimation from Generative EHR Models: The SCOPE and REACH Estimators**|Luke Solo et.al.|[2602.03730](http://arxiv.org/abs/2602.03730)|null|
+|**2026-02-03**|**Thermodynamics of the Heisenberg XXX chain with negative spin**|Rong Zhong et.al.|[2602.03714](http://arxiv.org/abs/2602.03714)|null|
+|**2026-02-03**|**Resolving Quantum Criticality in the Honeycomb Hubbard Model**|Fo-Hong Wang et.al.|[2602.03656](http://arxiv.org/abs/2602.03656)|null|
 |**2026-02-02**|**Resolution of the Two-Dimensional Ferromagnetic Spin-3/2 Ising Model via Cluster Growth**|J. Roberto Viana et.al.|[2602.02460](http://arxiv.org/abs/2602.02460)|null|
 |**2026-02-02**|**Renewal theory for a run-and-tumble particle with stochastic resetting and a sticky boundary**|Paul C Bressloff et.al.|[2602.02446](http://arxiv.org/abs/2602.02446)|null|
 |**2026-02-02**|**Surface Interactions in Photon Monte Carlo Simulations**|J. R. Peterson et.al.|[2602.02321](http://arxiv.org/abs/2602.02321)|null|
@@ -309,6 +343,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Violation of local equilibrium thermodynamics in one-dimensional Hamiltonian-Potts model**|Hitomi Endo et.al.|[2602.02946](http://arxiv.org/abs/2602.02946)|null|
 |**2026-02-02**|**Quantum vortex channels as Josephson junctions**|Natalia Masalaeva et.al.|[2602.01889](http://arxiv.org/abs/2602.01889)|null|
 |**2026-02-02**|**Morphological Evolution of Nickel-Fullerene Thin Film Mixtures**|Giovanni Ceccio et.al.|[2602.01788](http://arxiv.org/abs/2602.01788)|null|
 |**2026-02-01**|**AI Meets Plasticity: A Comprehensive Survey**|Hadi Bakhshan et.al.|[2602.01215](http://arxiv.org/abs/2602.01215)|null|
@@ -341,6 +376,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**When Single Answer Is Not Enough: Rethinking Single-Step Retrosynthesis Benchmarks for LLMs**|Bogdan Zagribelnyy et.al.|[2602.03554](http://arxiv.org/abs/2602.03554)|null|
 |**2026-01-30**|**ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas**|Xiaoyu Tian et.al.|[2601.21558](http://arxiv.org/abs/2601.21558)|null|
 |**2026-01-28**|**OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution**|Le Zhang et.al.|[2601.20380](http://arxiv.org/abs/2601.20380)|null|
 |**2026-01-27**|**C2NP: A Benchmark for Learning Scale-Dependent Geometric Invariances in 3D Materials Generation**|Can Polat et.al.|[2601.19076](http://arxiv.org/abs/2601.19076)|null|
@@ -366,6 +402,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**PQTNet: Pixel-wise Quantitative Thermography Neural Network for Estimating Defect Depth in Polylactic Acid Parts by Additive Manufacturing**|Lei Deng et.al.|[2602.03314](http://arxiv.org/abs/2602.03314)|null|
 |**2026-01-29**|**Chitosan/alginate bionanocomposites adorned with mesoporous silica nanoparticles for bone tissue engineering**|Satar Yousefiasl et.al.|[2601.22192](http://arxiv.org/abs/2601.22192)|null|
 |**2026-01-26**|**3D-Printed Hybrid Liquid-CPCM Cooling Modules for High-Performance Thermal Management of Lithium-Ion Pouch Cells**|Xuguang Zhanga et.al.|[2601.18959](http://arxiv.org/abs/2601.18959)|null|
 |**2026-01-24**|**Discovery of Feasible 3D Printing Configurations for Metal Alloys via AI-driven Adaptive Experimental Design**|Azza Fadhel et.al.|[2601.17587](http://arxiv.org/abs/2601.17587)|null|
@@ -392,6 +429,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Flow-induced bending response rheometer to measure viscoelastic bending of soft microrods**|Barrett T Smith et.al.|[2602.02801](http://arxiv.org/abs/2602.02801)|null|
 |**2026-01-28**|**Microfluidic Fabrication and Analysis of Biocompatible, Monodisperse DNA-Hydrogels with Tunable Swelling and Dissolution Kinetics**|Corinna Torabi et.al.|[2602.00137](http://arxiv.org/abs/2602.00137)|null|
 |**2026-01-22**|**Swelling-Induced Stress-Assisted Transfer of Nanodiamond Arrays with a PVA Carrier Tape for Conformal Bio-Integrated Sensing and Labelling**|Luyao Zhang et.al.|[2601.15587](http://arxiv.org/abs/2601.15587)|null|
 |**2026-01-21**|**Designing DNA nanostar hydrogels with programmable degradation and antibody release**|Giorgia Palombo et.al.|[2601.14934](http://arxiv.org/abs/2601.14934)|null|
@@ -413,6 +451,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing**|Tong Zheng et.al.|[2602.03845](http://arxiv.org/abs/2602.03845)|null|
+|**2026-02-03**|**Classical Benchmarks of a Symmetry-Adapted Variational Quantum Eigensolver for Real-Time Green's Functions in Dynamical Mean-Field Theory**|Aadi Singh et.al.|[2602.03843](http://arxiv.org/abs/2602.03843)|null|
+|**2026-02-03**|**Investigating Quantum Circuit Designs Using Neuro-Evolution**|Devroop Kar et.al.|[2602.03840](http://arxiv.org/abs/2602.03840)|null|
+|**2026-02-03**|**AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations**|Minjun Zhu et.al.|[2602.03828](http://arxiv.org/abs/2602.03828)|null|
+|**2026-02-03**|**They Said Memes Were Harmless-We Found the Ones That Hurt: Decoding Jokes, Symbols, and Cultural References**|Sahil Tripathi et.al.|[2602.03822](http://arxiv.org/abs/2602.03822)|null|
+|**2026-02-03**|**Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion**|Oscar Ovanger et.al.|[2602.03817](http://arxiv.org/abs/2602.03817)|null|
+|**2026-02-03**|**Antidistillation Fingerprinting**|Yixuan Even Xu et.al.|[2602.03812](http://arxiv.org/abs/2602.03812)|null|
+|**2026-02-03**|**Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network**|Abdul Joseph Fofanah et.al.|[2602.03808](http://arxiv.org/abs/2602.03808)|null|
+|**2026-02-03**|**FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation**|Zimu Lu et.al.|[2602.03798](http://arxiv.org/abs/2602.03798)|null|
+|**2026-02-03**|**Manifold Random Features**|Ananya Parashar et.al.|[2602.03797](http://arxiv.org/abs/2602.03797)|null|
 |**2026-02-02**|**Carry-Over Lottery Allocation: Practical Incentive-Compatible Drafts**|Timothy Highley et.al.|[2602.02487](http://arxiv.org/abs/2602.02487)|null|
 |**2026-02-02**|**Expanding the Capabilities of Reinforcement Learning via Text Feedback**|Yuda Song et.al.|[2602.02482](http://arxiv.org/abs/2602.02482)|null|
 |**2026-02-02**|**Orbital Magnetization of Interacting Electrons**|Xi Chen et.al.|[2602.02478](http://arxiv.org/abs/2602.02478)|null|
