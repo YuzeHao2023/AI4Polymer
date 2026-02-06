@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention**|Zhangquan Chen et.al.|[2602.05847](http://arxiv.org/abs/2602.05847)|null|
+|**2026-02-05**|**Self-Supervised Learning with a Multi-Task Latent Space Objective**|Pierre-François De Plaen et.al.|[2602.05845](http://arxiv.org/abs/2602.05845)|null|
+|**2026-02-05**|**Joint Embedding Variational Bayes**|Amin Oji et.al.|[2602.05639](http://arxiv.org/abs/2602.05639)|null|
+|**2026-02-05**|**ADCA: Attention-Driven Multi-Party Collusion Attack in Federated Self-Supervised Learning**|Jiayao Wang et.al.|[2602.05612](http://arxiv.org/abs/2602.05612)|null|
+|**2026-02-05**|**Generalization of Self-Supervised Vision Transformers for Protein Localization Across Microscopy Domains**|Ben Isselmann et.al.|[2602.05527](http://arxiv.org/abs/2602.05527)|null|
+|**2026-02-04**|**Feedback Control for Multi-Objective Graph Self-Supervision**|Karish Grover et.al.|[2602.05036](http://arxiv.org/abs/2602.05036)|null|
 |**2026-02-04**|**Temporal Slowness in Central Vision Drives Semantic Object Learning**|Timothy Schaumlöffel et.al.|[2602.04462](http://arxiv.org/abs/2602.04462)|null|
 |**2026-02-04**|**Mixture of Masters: Sparse Chess Language Models with Player Routing**|Giacomo Frisoni et.al.|[2602.04447](http://arxiv.org/abs/2602.04447)|null|
 |**2026-02-04**|**Aortic Valve Disease Detection from PPG via Physiology-Informed Self-Supervised Learning**|Jiaze Wang et.al.|[2602.04266](http://arxiv.org/abs/2602.04266)|null|
@@ -83,6 +89,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Platform and Framework for Time-Resolved Nanoscale Thermal Transport Measurements in STEM**|Mairi McCauley et.al.|[2602.05911](http://arxiv.org/abs/2602.05911)|null|
+|**2026-02-05**|**The near-continuum mechanism for extended Boltzmann theory: the non-equilibrium relaxation**|Sha Liu et.al.|[2602.05775](http://arxiv.org/abs/2602.05775)|null|
+|**2026-02-05**|**Orthogonal Superposition Rheometry of soft core-shell microgels**|Panagiota Bogri et.al.|[2602.05752](http://arxiv.org/abs/2602.05752)|null|
+|**2026-02-05**|**Large time existence in a thermoviscoelastic evolution problem with mildly temperature-dependent parameters**|Felix Meyer et.al.|[2602.05640](http://arxiv.org/abs/2602.05640)|null|
+|**2026-02-05**|**Microscopic origin of an exceptionally large phonon thermal Hall effect from charge puddles in a topological insulator**|Rohit Sharma et.al.|[2602.05569](http://arxiv.org/abs/2602.05569)|null|
+|**2026-02-05**|**First-principles study of photovoltaic and thermoelectric properties of AgBiSCl2**|Sihang Wang et.al.|[2602.05355](http://arxiv.org/abs/2602.05355)|null|
+|**2026-02-05**|**Beyond overcomplication: a linear model suffices to decode hidden structure-property relationships in glasses**|Chenyan Wang et.al.|[2602.05313](http://arxiv.org/abs/2602.05313)|null|
+|**2026-02-04**|**Minimal Hamiltonian deformations as bulk probes of effective non-Hermiticity in Dirac materials**|Sergio Pino-Alarcón et.al.|[2602.05040](http://arxiv.org/abs/2602.05040)|null|
 |**2026-02-03**|**Thermal conductivity of various CFRPs from 100 mK to 20 K**|Valentin Sauvage et.al.|[2602.04020](http://arxiv.org/abs/2602.04020)|null|
 |**2026-02-03**|**Local strong solutions in a quasilinear Moore-Gibson-Thompson type model for thermoviscoelastic evolution in a standard linear solid**|Leander Claes et.al.|[2602.04005](http://arxiv.org/abs/2602.04005)|null|
 |**2026-02-03**|**Pulse waves in the viscoelastic Kelvin-Voigt model: a revisited approach**|Juan Luis Gonzalez-Santander et.al.|[2602.03897](http://arxiv.org/abs/2602.03897)|null|
@@ -141,6 +155,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-05**|**Curiosity is Knowledge: Self-Consistent Learning and No-Regret Optimization with Active Inference**|Yingke Li et.al.|[2602.06029](http://arxiv.org/abs/2602.06029)|null|
+|**2026-02-05**|**Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold**|Ye He et.al.|[2602.06021](http://arxiv.org/abs/2602.06021)|null|
+|**2026-02-05**|**Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps**|Peter Holderrieth et.al.|[2602.05993](http://arxiv.org/abs/2602.05993)|null|
+|**2026-02-05**|**Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching**|Junwan Kim et.al.|[2602.05951](http://arxiv.org/abs/2602.05951)|null|
+|**2026-02-05**|**Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics**|Saad Yousuf et.al.|[2602.05931](http://arxiv.org/abs/2602.05931)|null|
+|**2026-02-05**|**Platform and Framework for Time-Resolved Nanoscale Thermal Transport Measurements in STEM**|Mairi McCauley et.al.|[2602.05911](http://arxiv.org/abs/2602.05911)|null|
+|**2026-02-05**|**Pathwise Test-Time Correction for Autoregressive Long Video Generation**|Xunzhi Xiang et.al.|[2602.05871](http://arxiv.org/abs/2602.05871)|null|
+|**2026-02-05**|**CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs**|Seyedmasoud Mousavi et.al.|[2602.05861](http://arxiv.org/abs/2602.05861)|null|
+|**2026-02-05**|**Synthesizing Realistic Test Data without Breaking Privacy**|Laura Plein et.al.|[2602.05833](http://arxiv.org/abs/2602.05833)|null|
 |**2026-02-04**|**Laminating Representation Autoencoders for Efficient Diffusion**|Ramón Calvo-González et.al.|[2602.04873](http://arxiv.org/abs/2602.04873)|null|
 |**2026-02-04**|**X2HDR: HDR Image Generation in a Perceptually Uniform Space**|Ronghuan Wu et.al.|[2602.04814](http://arxiv.org/abs/2602.04814)|null|
 |**2026-02-04**|**Dynamical Regimes of Multimodal Diffusion Models**|Emil Albrychiewicz et.al.|[2602.04780](http://arxiv.org/abs/2602.04780)|null|
@@ -246,6 +270,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Dissipative Dicke Time Quasicrystals**|Sk Anisur et.al.|[2602.05994](http://arxiv.org/abs/2602.05994)|null|
+|**2026-02-05**|**Time lags and their association with the Boundary Layer structure in a Z source GX 349+2**|Abhishek M. V. R. et.al.|[2602.05989](http://arxiv.org/abs/2602.05989)|null|
+|**2026-02-05**|**Geometry and dynamical morphology of growing bacterial colonies**|Benjamin Evert Himberg et.al.|[2602.05958](http://arxiv.org/abs/2602.05958)|null|
+|**2026-02-05**|**Spontaneous Parity Breaking in Quantum Antiferromagnets on the Triangular Lattice**|Songtai Lv et.al.|[2602.05901](http://arxiv.org/abs/2602.05901)|null|
+|**2026-02-05**|**Reducing the Computational Cost Scaling of Tensor Network Algorithms via Field-Programmable Gate Array Parallelism**|Songtai Lv et.al.|[2602.05900](http://arxiv.org/abs/2602.05900)|null|
+|**2026-02-05**|**Giant bubbles of Fisher zeros in the quantum XY chain**|Songtai Lv et.al.|[2602.05899](http://arxiv.org/abs/2602.05899)|null|
+|**2026-02-05**|**AMDAT: An Open-Source Molecular Dynamics Analysis Toolkit for Supercooled Liquids, Glass-Forming Materials, and Complex Fluids**|Pierre Kawak et.al.|[2602.05865](http://arxiv.org/abs/2602.05865)|null|
+|**2026-02-05**|**Quantum statistical functions**|Haruki Emori et.al.|[2602.05821](http://arxiv.org/abs/2602.05821)|null|
+|**2026-02-05**|**Suppressed coarsening after an interaction quench in the Holstein chain**|Ho Jang et.al.|[2602.05815](http://arxiv.org/abs/2602.05815)|null|
+|**2026-02-05**|**Copula-based models for spatially dependent cylindrical data**|Francesca Labanca et.al.|[2602.05778](http://arxiv.org/abs/2602.05778)|null|
 |**2026-02-04**|**Site and bond percolation in linearly distorted triangular and square lattices**|Bishnu Bhowmik et.al.|[2602.04818](http://arxiv.org/abs/2602.04818)|null|
 |**2026-02-04**|**Dynamical Quantum Phase Transitions in Boundary Time Crystals**|Sukrut Mondkar et.al.|[2602.04792](http://arxiv.org/abs/2602.04792)|null|
 |**2026-02-04**|**Multiple Imputation Methods under Extreme Values**|Enzo Porto Brasil et.al.|[2602.04751](http://arxiv.org/abs/2602.04751)|null|
@@ -351,6 +385,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**A Novel Mechanism of Ordering in a Coupled Driven System: Vacancy Induced Phase Separation**|Chandradip Khamrai et.al.|[2602.05537](http://arxiv.org/abs/2602.05537)|null|
+|**2026-02-05**|**Scaling Law for Sequence-Induced Demixing of Compositionally Identical Copolymers**|Artem M. Rumyantsev et.al.|[2602.05153](http://arxiv.org/abs/2602.05153)|null|
+|**2026-02-04**|**Metastability and ripening of multi-component liquid mixtures**|Giacomo Bartolucci et.al.|[2602.04999](http://arxiv.org/abs/2602.04999)|null|
 |**2026-02-03**|**Violation of local equilibrium thermodynamics in one-dimensional Hamiltonian-Potts model**|Hitomi Endo et.al.|[2602.02946](http://arxiv.org/abs/2602.02946)|null|
 |**2026-02-02**|**Quantum vortex channels as Josephson junctions**|Natalia Masalaeva et.al.|[2602.01889](http://arxiv.org/abs/2602.01889)|null|
 |**2026-02-02**|**Morphological Evolution of Nickel-Fullerene Thin Film Mixtures**|Giovanni Ceccio et.al.|[2602.01788](http://arxiv.org/abs/2602.01788)|null|
@@ -382,6 +419,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Predictive Machine Learning Molecular Dynamics of SEI Formation in Concentrated LiTFSI and LiPF6 Electrolytes for Lithium Metal Batteries**|Syed Mustafa Shah et.al.|[2602.05141](http://arxiv.org/abs/2602.05141)|null|
 |**2026-02-03**|**A gas-phase "top-down" chemical link between aldehydes and alcohols**|Christopher N. Shingledecker et.al.|[2602.03989](http://arxiv.org/abs/2602.03989)|null|
 |**2026-02-03**|**When Single Answer Is Not Enough: Rethinking Single-Step Retrosynthesis Benchmarks for LLMs**|Bogdan Zagribelnyy et.al.|[2602.03554](http://arxiv.org/abs/2602.03554)|null|
 |**2026-01-30**|**ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas**|Xiaoyu Tian et.al.|[2601.21558](http://arxiv.org/abs/2601.21558)|null|
@@ -453,6 +491,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
+|**2026-02-05**|**DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching**|Yuxing Lu et.al.|[2602.06039](http://arxiv.org/abs/2602.06039)|null|
+|**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](http://arxiv.org/abs/2602.06038)|null|
+|**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
+|**2026-02-05**|**AP-OOD: Attention Pooling for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2602.06031](http://arxiv.org/abs/2602.06031)|null|
+|**2026-02-05**|**Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering**|Miranda Muqing Miao et.al.|[2602.06022](http://arxiv.org/abs/2602.06022)|null|
+|**2026-02-05**|**MambaVF: State Space Model for Efficient Video Fusion**|Zixiang Zhao et.al.|[2602.06017](http://arxiv.org/abs/2602.06017)|null|
+|**2026-02-05**|**Convex unions and completions from simplicial pseudomanifolds**|Soohyun Park et.al.|[2602.06016](http://arxiv.org/abs/2602.06016)|null|
+|**2026-02-05**|**GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?**|Ruihang Li et.al.|[2602.06013](http://arxiv.org/abs/2602.06013)|null|
+|**2026-02-05**|**AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions**|Xianyang Liu et.al.|[2602.06008](http://arxiv.org/abs/2602.06008)|null|
 |**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883](http://arxiv.org/abs/2602.04883)|null|
 |**2026-02-04**|**CoWTracker: Tracking by Warping instead of Correlation**|Zihang Lai et.al.|[2602.04877](http://arxiv.org/abs/2602.04877)|null|
